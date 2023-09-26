@@ -15,4 +15,4 @@ Ci dessous le classement des 5 premiers participants (métrique roc_auc) :
 
 <img width="813" alt="Capture d’écran 2023-09-26 à 23 14 37" src="https://github.com/Bendrox/DS_Valeo_challenge/assets/145064474/58fd5d4c-848c-483d-bb2b-4bbe907de7dd">
 
-La méthode n°4 de recherche d'hyperparamètres a permis
+La méthode n°4 de recherche d'hyperparamètres permet deja de battre le gagant de la compétition (avec score 0.7745)
