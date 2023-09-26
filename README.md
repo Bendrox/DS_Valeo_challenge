@@ -5,6 +5,10 @@ Je relève le défi de battre le gagnant de la compétition 'ENS Challenge' sur 
 
 L'excercice est de prévoir si les pièces sont defectueuses (observations) ou pas en fonction de plusieurs mesures (variables).
 
+Le dataset présente deux diffucultés majeurs : 
+- Un prédicteur fortement déséquilibré
+- Des valeurs manquantes sur une des variables du dataset
+
 Le lien vers le challenge : https://challengedata.ens.fr/participants/challenges/36/ranking/public
 
 Ci dessous le classement des 5 premiers participants (métrique roc_auc) : 
