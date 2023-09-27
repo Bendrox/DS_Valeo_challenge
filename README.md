@@ -5,7 +5,7 @@ Je relève le défi de battre le gagnant de la compétition 'ENS Challenge' sur 
 
 L'excercice est de prévoir si les pièces sont defectueuses (observations) ou pas en fonction de plusieurs mesures (variables).
 
-Le dataset présente deux diffucultés majeurs : 
+Le dataset présente deux difficultés majeures : 
 - Un prédicteur fortement déséquilibré
 - Des valeurs manquantes sur une des variables du dataset
 
