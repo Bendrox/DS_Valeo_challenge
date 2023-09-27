@@ -1,5 +1,5 @@
 # DS_Valeo_challenge :car:
-En cours de construction
+En cours ...
 
 Je relève le défi de battre le gagnant de la compétition 'ENS Challenge' sur le dataset de Valeo avec l'utilisation exclusive d'XG Boost pour de la classification supervisée en explorant plusieurs méthodes de recherche d'hyperparamètres.
 
