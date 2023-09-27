@@ -3,7 +3,7 @@ En cours ...
 
 Je relève le défi de battre le gagnant de la compétition 'ENS Challenge' sur le dataset de Valeo avec l'utilisation exclusive d'XG Boost pour de la classification supervisée en explorant plusieurs méthodes de recherche d'hyperparamètres.
 
-L'excercice est de prévoir si les pièces sont defectueuses (observations) ou pas en fonction de plusieurs mesures (variables).
+L'excercice est de prévoir si les pièces (observations) sont defectueuses (ou pas) en fonction de plusieurs mesures (variables).
 
 Le dataset présente deux difficultés majeures : 
 - Un prédicteur fortement déséquilibré
