@@ -19,5 +19,3 @@ Ci dessous le classement des 5 premiers participants (métrique roc_auc) :
 Source : https://challengedata.ens.fr/participants/challenges/36/ranking/public
 
 
-La méthode n°4 de recherche d'hyperparamètres a permis de battre le gagant de la compétition (avec score roc_auc de 0.81)
-D'autres méthodes sont en cours d'exploration
