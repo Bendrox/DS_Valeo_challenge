@@ -1,0 +1,3342 @@
+{
+  "stats": {
+    "submitted": 185,
+    "finished": 184,
+    "running": 1
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.91645,
+      1696767423.917274,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.9224582,
+      1696767423.9231539,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.926118,
+      1696767423.926771,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.9296489,
+      1696767423.9303,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.932947,
+      1696767423.933574,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.936361,
+      1696767423.9370298,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.9393191,
+      1696767423.940049,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.942241,
+      1696767423.94289,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.946434,
+      1696767423.947117,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767423.951224,
+      1696767423.951893,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      11,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.021628,
+      1696767424.022333,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      12,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.025697,
+      1696767424.026346,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      13,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.028897,
+      1696767424.0295172,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      14,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.032223,
+      1696767424.032842,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      15,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.035585,
+      1696767424.036226,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      16,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.0389462,
+      1696767424.039563,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      17,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.0417979,
+      1696767424.0424168,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      18,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.044721,
+      1696767424.0453289,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      19,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.131159,
+      1696767424.131885,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      20,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.1350641,
+      1696767424.1357079,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      21,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.1383522,
+      1696767424.1389701,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      22,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.141401,
+      1696767424.142024,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      23,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.144786,
+      1696767424.1454039,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      24,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.148027,
+      1696767424.148654,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      25,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.1517398,
+      1696767424.152353,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      26,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.155125,
+      1696767424.155743,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      27,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.161577,
+      1696767424.16226,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      28,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.254494,
+      1696767424.255192,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      29,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.2583349,
+      1696767424.259003,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      30,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.261886,
+      1696767424.2625,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      31,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.267338,
+      1696767424.268107,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      32,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.2790558,
+      1696767424.2799869,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      33,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.2946858,
+      1696767424.295517,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      34,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.298888,
+      1696767424.299556,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      35,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.312415,
+      1696767424.3130949,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      36,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.428813,
+      1696767424.429512,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      37,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.4327989,
+      1696767424.433423,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      38,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.436367,
+      1696767424.4369621,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      39,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.440001,
+      1696767424.4406111,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      40,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.4446552,
+      1696767424.445288,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      41,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.449013,
+      1696767424.4496331,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      42,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.452823,
+      1696767424.453464,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      43,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.565983,
+      1696767424.5666502,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      44,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.570061,
+      1696767424.570695,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      45,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.574023,
+      1696767424.574636,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      46,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.5775628,
+      1696767424.578146,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      47,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.5814772,
+      1696767424.582067,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      48,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.5854132,
+      1696767424.58606,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      49,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.5893161,
+      1696767424.589931,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      50,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.5931468,
+      1696767424.59375,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      51,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.735191,
+      1696767424.735889,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      52,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.739603,
+      1696767424.740243,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      53,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.7435641,
+      1696767424.7441611,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      54,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.747392,
+      1696767424.7480068,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      55,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.75146,
+      1696767424.752071,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      56,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.755481,
+      1696767424.7560909,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      57,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.75944,
+      1696767424.760025,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      58,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.76337,
+      1696767424.763952,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      59,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.910443,
+      1696767424.9111319,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      60,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.915092,
+      1696767424.9157188,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      61,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.919229,
+      1696767424.919843,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      62,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.923266,
+      1696767424.9238908,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      63,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.9276538,
+      1696767424.92831,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      64,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.937964,
+      1696767424.938658,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      65,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.952684,
+      1696767424.953417,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      66,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767424.959059,
+      1696767424.959754,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      67,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.115788,
+      1696767425.116478,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      68,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.120571,
+      1696767425.1212292,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      69,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.124793,
+      1696767425.125401,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      70,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.1290188,
+      1696767425.129633,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      71,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.134181,
+      1696767425.134822,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      72,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.1387389,
+      1696767425.139358,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      73,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.143237,
+      1696767425.143865,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      74,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.1504278,
+      1696767425.1510808,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      75,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.165123,
+      1696767425.165793,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      76,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.3183758,
+      1696767425.319173,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      77,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.324265,
+      1696767425.324915,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      78,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.329144,
+      1696767425.3297439,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      79,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.335594,
+      1696767425.336525,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      80,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.340841,
+      1696767425.341464,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      81,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.345578,
+      1696767425.346242,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      82,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.350133,
+      1696767425.350731,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      83,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.5248902,
+      1696767425.525578,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      84,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.5300531,
+      1696767425.5306728,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      85,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.534786,
+      1696767425.535408,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      86,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.5394502,
+      1696767425.5400698,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      87,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.544331,
+      1696767425.544946,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      88,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.550611,
+      1696767425.551287,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      89,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.573062,
+      1696767425.575113,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      90,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.5820749,
+      1696767425.58279,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      91,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.767851,
+      1696767425.768561,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      92,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.77325,
+      1696767425.773862,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      93,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.7780511,
+      1696767425.7786582,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      94,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.783187,
+      1696767425.783874,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      95,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.7886138,
+      1696767425.789223,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      96,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.793559,
+      1696767425.794143,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      97,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.798456,
+      1696767425.799055,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      98,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.803693,
+      1696767425.804327,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      99,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767425.9979782,
+      1696767425.998658,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      100,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.003596,
+      1696767426.004226,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      101,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.008833,
+      1696767426.009509,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      102,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.0141041,
+      1696767426.014721,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      103,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.019441,
+      1696767426.0200808,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      104,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.025594,
+      1696767426.026208,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      105,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.030725,
+      1696767426.031329,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      106,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.036216,
+      1696767426.036861,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      107,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.243562,
+      1696767426.24452,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      108,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.2499158,
+      1696767426.25055,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      109,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.255784,
+      1696767426.2564201,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      110,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.262368,
+      1696767426.263029,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      111,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.2687738,
+      1696767426.26946,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      112,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.284638,
+      1696767426.285985,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      113,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.308188,
+      1696767426.308933,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      114,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.315222,
+      1696767426.316105,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      115,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.5411909,
+      1696767426.541874,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      116,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.546995,
+      1696767426.547606,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      117,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.553165,
+      1696767426.553826,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      118,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.559433,
+      1696767426.560077,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      119,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.565133,
+      1696767426.5657442,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      120,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.570924,
+      1696767426.571569,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      121,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.576791,
+      1696767426.5773828,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      122,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.582384,
+      1696767426.582995,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      123,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696767426.814334,
+      1696767426.8150332,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/1961066183.py\", line 11, in train\n    classifier = xgb.XGBClassifier(C=config[\"C\"], random_state=seed)\n                 ^^^\nNameError: name 'xgb' is not defined\n",
+        "error": "NameError(\"name 'xgb' is not defined\")"
+      }
+    ],
+    [
+      124,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      0.8698909282684326,
+      1,
+      1696767463.562062,
+      1696767464.432477,
+      {}
+    ],
+    [
+      125,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      0.7238287925720215,
+      1,
+      1696767464.437993,
+      1696767465.162345,
+      {}
+    ],
+    [
+      126,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      0.7081079483032227,
+      1,
+      1696767465.166933,
+      1696767465.875561,
+      {}
+    ],
+    [
+      127,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      0.7074398994445801,
+      1,
+      1696767465.880108,
+      1696767466.5880609,
+      {}
+    ],
+    [
+      128,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      0.9217360019683838,
+      1,
+      1696767466.5933352,
+      1696767467.51567,
+      {}
+    ],
+    [
+      129,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.5061430931091309,
+      1,
+      1696767467.524547,
+      1696767469.031915,
+      {}
+    ],
+    [
+      130,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2407569885253906,
+      1,
+      1696767469.0401769,
+      1696767470.281774,
+      {}
+    ],
+    [
+      131,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3264868259429932,
+      1,
+      1696767470.289539,
+      1696767471.616889,
+      {}
+    ],
+    [
+      132,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2596678733825684,
+      1,
+      1696767471.967646,
+      1696767473.227848,
+      {}
+    ],
+    [
+      133,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2828731536865234,
+      1,
+      1696767473.236323,
+      1696767474.5200682,
+      {}
+    ],
+    [
+      134,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3921599388122559,
+      1,
+      1696767474.528959,
+      1696767475.922,
+      {}
+    ],
+    [
+      135,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.7793309688568115,
+      1,
+      1696767475.9310431,
+      1696767477.711215,
+      {}
+    ],
+    [
+      136,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.389343023300171,
+      1,
+      1696767477.719674,
+      1696767479.1098628,
+      {}
+    ],
+    [
+      137,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.4898512363433838,
+      1,
+      1696767479.119955,
+      1696767480.610657,
+      {}
+    ],
+    [
+      138,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2917060852050781,
+      1,
+      1696767480.618463,
+      1696767481.911021,
+      {}
+    ],
+    [
+      139,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2163422107696533,
+      1,
+      1696767481.9192479,
+      1696767483.13647,
+      {}
+    ],
+    [
+      140,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.1345481872558594,
+      1,
+      1696767483.478264,
+      1696767484.613394,
+      {}
+    ],
+    [
+      141,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2218728065490723,
+      1,
+      1696767484.622677,
+      1696767485.84541,
+      {}
+    ],
+    [
+      142,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2472870349884033,
+      1,
+      1696767485.8538282,
+      1696767487.101978,
+      {}
+    ],
+    [
+      143,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2866439819335938,
+      1,
+      1696767487.109833,
+      1696767488.397314,
+      {}
+    ],
+    [
+      144,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2820379734039307,
+      1,
+      1696767488.4059908,
+      1696767489.688937,
+      {}
+    ],
+    [
+      145,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.6124980449676514,
+      1,
+      1696767489.6974442,
+      1696767491.310781,
+      {}
+    ],
+    [
+      146,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.39854097366333,
+      1,
+      1696767491.319502,
+      1696767492.718941,
+      {}
+    ],
+    [
+      147,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.637692928314209,
+      1,
+      1696767492.728272,
+      1696767494.3668559,
+      {}
+    ],
+    [
+      148,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      2.1126301288604736,
+      1,
+      1696767494.753361,
+      1696767496.8665879,
+      {}
+    ],
+    [
+      149,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.9085102081298828,
+      1,
+      1696767496.880408,
+      1696767498.789851,
+      {}
+    ],
+    [
+      150,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3337137699127197,
+      1,
+      1696767498.7983098,
+      1696767500.1328828,
+      {}
+    ],
+    [
+      151,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2838070392608643,
+      1,
+      1696767500.142381,
+      1696767501.4270751,
+      {}
+    ],
+    [
+      152,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.4568839073181152,
+      1,
+      1696767501.436221,
+      1696767502.893975,
+      {}
+    ],
+    [
+      153,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.4717400074005127,
+      1,
+      1696767502.90231,
+      1696767504.374911,
+      {}
+    ],
+    [
+      154,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2596008777618408,
+      1,
+      1696767504.383349,
+      1696767505.643795,
+      {}
+    ],
+    [
+      155,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3183019161224365,
+      1,
+      1696767505.652181,
+      1696767506.9713228,
+      {}
+    ],
+    [
+      156,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2673380374908447,
+      1,
+      1696767507.351694,
+      1696767508.619561,
+      {}
+    ],
+    [
+      157,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2604811191558838,
+      1,
+      1696767508.628771,
+      1696767509.8900821,
+      {}
+    ],
+    [
+      158,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2957899570465088,
+      1,
+      1696767509.899243,
+      1696767511.195887,
+      {}
+    ],
+    [
+      159,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3652911186218262,
+      1,
+      1696767511.205545,
+      1696767512.571719,
+      {}
+    ],
+    [
+      160,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.6580390930175781,
+      1,
+      1696767512.580628,
+      1696767514.239514,
+      {}
+    ],
+    [
+      161,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.4571621417999268,
+      1,
+      1696767514.2482162,
+      1696767515.7062159,
+      {}
+    ],
+    [
+      162,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.502082109451294,
+      1,
+      1696767515.714922,
+      1696767517.217843,
+      {}
+    ],
+    [
+      163,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.346618890762329,
+      1,
+      1696767517.227437,
+      1696767518.574976,
+      {}
+    ],
+    [
+      164,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3086340427398682,
+      1,
+      1696767518.9661922,
+      1696767520.275351,
+      {}
+    ],
+    [
+      165,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3011059761047363,
+      1,
+      1696767520.2850199,
+      1696767521.587007,
+      {}
+    ],
+    [
+      166,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.30259108543396,
+      1,
+      1696767521.5959308,
+      1696767522.899371,
+      {}
+    ],
+    [
+      167,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2336878776550293,
+      1,
+      1696767522.9126122,
+      1696767524.147176,
+      {}
+    ],
+    [
+      168,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2093901634216309,
+      1,
+      1696767524.1565719,
+      1696767525.366879,
+      {}
+    ],
+    [
+      169,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.382918119430542,
+      1,
+      1696767525.376171,
+      1696767526.759955,
+      {}
+    ],
+    [
+      170,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2413151264190674,
+      1,
+      1696767526.7707798,
+      1696767528.0129302,
+      {}
+    ],
+    [
+      171,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2526400089263916,
+      1,
+      1696767528.021941,
+      1696767529.2754219,
+      {}
+    ],
+    [
+      172,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.156217098236084,
+      1,
+      1696767529.666805,
+      1696767530.8235369,
+      {}
+    ],
+    [
+      173,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2680959701538086,
+      1,
+      1696767530.833895,
+      1696767532.102842,
+      {}
+    ],
+    [
+      174,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2530748844146729,
+      1,
+      1696767532.112011,
+      1696767533.3659189,
+      {}
+    ],
+    [
+      175,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2313640117645264,
+      1,
+      1696767533.378415,
+      1696767534.6106749,
+      {}
+    ],
+    [
+      176,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2040209770202637,
+      1,
+      1696767534.620255,
+      1696767535.825174,
+      {}
+    ],
+    [
+      177,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.207732915878296,
+      1,
+      1696767535.835211,
+      1696767537.043871,
+      {}
+    ],
+    [
+      178,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2649247646331787,
+      1,
+      1696767537.0557399,
+      1696767538.32154,
+      {}
+    ],
+    [
+      179,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.2386720180511475,
+      1,
+      1696767538.33268,
+      1696767539.5722802,
+      {}
+    ],
+    [
+      180,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.1363821029663086,
+      1,
+      1696767539.967464,
+      1696767541.104376,
+      {}
+    ],
+    [
+      181,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.218367099761963,
+      1,
+      1696767541.1141918,
+      1696767542.3334851,
+      {}
+    ],
+    [
+      182,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.1976449489593506,
+      1,
+      1696767542.3470862,
+      1696767543.545633,
+      {}
+    ],
+    [
+      183,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.3313159942626953,
+      1,
+      1696767543.558412,
+      1696767544.89062,
+      {}
+    ],
+    [
+      184,
+      null,
+      209652396,
+      null,
+      0.008836737650297133,
+      1.4753100872039795,
+      1,
+      1696767544.90097,
+      1696767546.377144,
+      {}
+    ],
+    [
+      185,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ]
+  ],
+  "configs": {
+    "1": {
+      "C": 266.95183321777733
+    },
+    "2": {
+      "C": 716.1157102249563
+    },
+    "3": {
+      "C": 836.2941970440559
+    },
+    "4": {
+      "C": 144.93842396857215
+    },
+    "5": {
+      "C": 98.85349361812695
+    },
+    "6": {
+      "C": 915.2282236241736
+    },
+    "7": {
+      "C": 543.2112051440403
+    },
+    "8": {
+      "C": 469.04321457482877
+    },
+    "9": {
+      "C": 409.38418193990367
+    },
+    "10": {
+      "C": 608.6034542760812
+    },
+    "11": {
+      "C": 891.7838234820016
+    },
+    "12": {
+      "C": 715.2178474357822
+    },
+    "13": {
+      "C": 645.9295236553495
+    },
+    "14": {
+      "C": 602.8030997340367
+    },
+    "15": {
+      "C": 548.858622576932
+    },
+    "16": {
+      "C": 544.9286946785971
+    },
+    "17": {
+      "C": 437.64345254156626
+    },
+    "18": {
+      "C": 423.7124338589708
+    },
+    "19": {
+      "C": 963.6663942249792
+    },
+    "20": {
+      "C": 925.6040786288318
+    },
+    "21": {
+      "C": 791.7458655788563
+    },
+    "22": {
+      "C": 568.087756637823
+    },
+    "23": {
+      "C": 528.9420302609292
+    },
+    "24": {
+      "C": 383.50317467389516
+    },
+    "25": {
+      "C": 20.316375600581686
+    },
+    "26": {
+      "C": 832.6365835633832
+    },
+    "27": {
+      "C": 778.1789352747555
+    },
+    "28": {
+      "C": 780.5511233688268
+    },
+    "29": {
+      "C": 461.53321431670656
+    },
+    "30": {
+      "C": 978.6204803985407
+    },
+    "31": {
+      "C": 118.36259842634632
+    },
+    "32": {
+      "C": 143.43895208030548
+    },
+    "33": {
+      "C": 799.178648360302
+    },
+    "34": {
+      "C": 639.9570292253911
+    },
+    "35": {
+      "C": 944.6744501578789
+    },
+    "36": {
+      "C": 774.2562660652733
+    },
+    "37": {
+      "C": 612.1345131501491
+    },
+    "38": {
+      "C": 617.6737335261695
+    },
+    "39": {
+      "C": 414.7204737965246
+    },
+    "40": {
+      "C": 456.2047171833269
+    },
+    "41": {
+      "C": 568.4771054737616
+    },
+    "42": {
+      "C": 18.887921456311506
+    },
+    "43": {
+      "C": 60.31944908210691
+    },
+    "44": {
+      "C": 666.8000387741231
+    },
+    "45": {
+      "C": 670.6708058311976
+    },
+    "46": {
+      "C": 359.57194978372866
+    },
+    "47": {
+      "C": 697.6614328076721
+    },
+    "48": {
+      "C": 437.0882506039615
+    },
+    "49": {
+      "C": 943.7537037067727
+    },
+    "50": {
+      "C": 616.9723034750695
+    },
+    "51": {
+      "C": 315.4968080890915
+    },
+    "52": {
+      "C": 438.6576533109741
+    },
+    "53": {
+      "C": 570.2397507408378
+    },
+    "54": {
+      "C": 208.9558684192252
+    },
+    "55": {
+      "C": 129.01340502508782
+    },
+    "56": {
+      "C": 210.4615228177335
+    },
+    "57": {
+      "C": 988.3750006754202
+    },
+    "58": {
+      "C": 161.39338693320775
+    },
+    "59": {
+      "C": 159.05368668715516
+    },
+    "60": {
+      "C": 466.36414177902066
+    },
+    "61": {
+      "C": 244.50114944240258
+    },
+    "62": {
+      "C": 253.3662733795281
+    },
+    "63": {
+      "C": 653.1430146328519
+    },
+    "64": {
+      "C": 196.66270344388548
+    },
+    "65": {
+      "C": 656.3639565063269
+    },
+    "66": {
+      "C": 368.78829814389803
+    },
+    "67": {
+      "C": 976.7634120815181
+    },
+    "68": {
+      "C": 821.0111305249503
+    },
+    "69": {
+      "C": 837.961113008054
+    },
+    "70": {
+      "C": 97.19156566548196
+    },
+    "71": {
+      "C": 739.2896530403618
+    },
+    "72": {
+      "C": 39.28387347509524
+    },
+    "73": {
+      "C": 96.18879805317366
+    },
+    "74": {
+      "C": 282.87868188015193
+    },
+    "75": {
+      "C": 120.28454155704758
+    },
+    "76": {
+      "C": 566.6447940611545
+    },
+    "77": {
+      "C": 64.24108159914948
+    },
+    "78": {
+      "C": 523.295728661353
+    },
+    "79": {
+      "C": 318.05138107603665
+    },
+    "80": {
+      "C": 94.03111670736583
+    },
+    "81": {
+      "C": 265.4629519903515
+    },
+    "82": {
+      "C": 118.81584618234862
+    },
+    "83": {
+      "C": 575.9889009066237
+    },
+    "84": {
+      "C": 318.6370955560785
+    },
+    "85": {
+      "C": 929.3032679564565
+    },
+    "86": {
+      "C": 586.5542835166021
+    },
+    "87": {
+      "C": 289.4771523379064
+    },
+    "88": {
+      "C": 20.205535432874804
+    },
+    "89": {
+      "C": 131.88468261815171
+    },
+    "90": {
+      "C": 828.9571352144413
+    },
+    "91": {
+      "C": 735.2205027203827
+    },
+    "92": {
+      "C": 962.1923262629265
+    },
+    "93": {
+      "C": 572.2946806002943
+    },
+    "94": {
+      "C": 576.1997186843952
+    },
+    "95": {
+      "C": 677.8487551425505
+    },
+    "96": {
+      "C": 4.795006644927811
+    },
+    "97": {
+      "C": 248.82826820560604
+    },
+    "98": {
+      "C": 223.15932447735423
+    },
+    "99": {
+      "C": 447.1806660797656
+    },
+    "100": {
+      "C": 813.8164399205069
+    },
+    "101": {
+      "C": 699.5093273899726
+    },
+    "102": {
+      "C": 952.7537366158333
+    },
+    "103": {
+      "C": 581.3147453485951
+    },
+    "104": {
+      "C": 846.4240316038807
+    },
+    "105": {
+      "C": 396.56609027289994
+    },
+    "106": {
+      "C": 881.7471883186673
+    },
+    "107": {
+      "C": 19.291278989502594
+    },
+    "108": {
+      "C": 301.6446591928819
+    },
+    "109": {
+      "C": 501.3742494885096
+    },
+    "110": {
+      "C": 660.2075201389358
+    },
+    "111": {
+      "C": 606.4325748065115
+    },
+    "112": {
+      "C": 644.0258002097145
+    },
+    "113": {
+      "C": 692.5623369187581
+    },
+    "114": {
+      "C": 423.91266305332385
+    },
+    "115": {
+      "C": 570.0079142101947
+    },
+    "116": {
+      "C": 574.3678163246939
+    },
+    "117": {
+      "C": 428.82582407567156
+    },
+    "118": {
+      "C": 618.0536274559416
+    },
+    "119": {
+      "C": 135.56051681602798
+    },
+    "120": {
+      "C": 590.9136739720484
+    },
+    "121": {
+      "C": 290.14859944972306
+    },
+    "122": {
+      "C": 298.3524977234352
+    },
+    "123": {
+      "C": 891.9341626801705
+    },
+    "124": {
+      "C": 461.7707118556309
+    },
+    "125": {
+      "C": 579.0741548100364
+    },
+    "126": {
+      "C": 553.0283502931197
+    },
+    "127": {
+      "C": 719.9014184165704
+    },
+    "128": {
+      "C": 515.6689119618907
+    },
+    "129": {
+      "C": 649.8438533488103
+    },
+    "130": {
+      "C": 414.88644372670905
+    },
+    "131": {
+      "C": 86.51004133720181
+    },
+    "132": {
+      "C": 87.22058677157055
+    },
+    "133": {
+      "C": 71.12895459206715
+    },
+    "134": {
+      "C": 870.0251470319945
+    },
+    "135": {
+      "C": 820.6551066739178
+    },
+    "136": {
+      "C": 266.97925058175844
+    },
+    "137": {
+      "C": 680.7773625772455
+    },
+    "138": {
+      "C": 489.30867945355374
+    },
+    "139": {
+      "C": 394.6037244438545
+    },
+    "140": {
+      "C": 521.8961369178967
+    },
+    "141": {
+      "C": 264.6291565434165
+    },
+    "142": {
+      "C": 733.0749517170382
+    },
+    "143": {
+      "C": 801.7703404382705
+    },
+    "144": {
+      "C": 485.93268842379877
+    },
+    "145": {
+      "C": 852.1857577408505
+    },
+    "146": {
+      "C": 521.1323828732245
+    },
+    "147": {
+      "C": 189.8109349657063
+    },
+    "148": {
+      "C": 681.852117073573
+    },
+    "149": {
+      "C": 274.83078446946456
+    },
+    "150": {
+      "C": 337.9801433104605
+    },
+    "151": {
+      "C": 318.64528660190655
+    },
+    "152": {
+      "C": 162.3997602867614
+    },
+    "153": {
+      "C": 460.77873537948693
+    },
+    "154": {
+      "C": 563.5449509622746
+    },
+    "155": {
+      "C": 447.85859743273556
+    },
+    "156": {
+      "C": 102.13460626695326
+    },
+    "157": {
+      "C": 363.7743998655284
+    },
+    "158": {
+      "C": 308.7707951582277
+    },
+    "159": {
+      "C": 351.3592313598132
+    },
+    "160": {
+      "C": 381.14527221836806
+    },
+    "161": {
+      "C": 847.4576604243201
+    },
+    "162": {
+      "C": 564.5169534858751
+    },
+    "163": {
+      "C": 110.46410365018869
+    },
+    "164": {
+      "C": 976.4618190668945
+    },
+    "165": {
+      "C": 468.70433652753684
+    },
+    "166": {
+      "C": 138.26913305347892
+    },
+    "167": {
+      "C": 147.01150083587115
+    },
+    "168": {
+      "C": 340.6736635743523
+    },
+    "169": {
+      "C": 196.09489413092817
+    },
+    "170": {
+      "C": 407.5250944368854
+    },
+    "171": {
+      "C": 72.41633916096973
+    },
+    "172": {
+      "C": 604.8850351930714
+    },
+    "173": {
+      "C": 296.21058350239275
+    },
+    "174": {
+      "C": 402.37789488669466
+    },
+    "175": {
+      "C": 952.5901382644985
+    },
+    "176": {
+      "C": 13.477517694734612
+    },
+    "177": {
+      "C": 39.28564459699226
+    },
+    "178": {
+      "C": 827.9922500296857
+    },
+    "179": {
+      "C": 332.10711433168444
+    },
+    "180": {
+      "C": 414.3215682152185
+    },
+    "181": {
+      "C": 692.5028721580828
+    },
+    "182": {
+      "C": 556.1705026656468
+    },
+    "183": {
+      "C": 36.650150372093144
+    },
+    "184": {
+      "C": 373.10250434261394
+    },
+    "185": {
+      "C": 716.8667632778413
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Acquisition Function Maximizer: Random Search (sorted)",
+    "12": "Acquisition Function Maximizer: Random Search (sorted)",
+    "13": "Acquisition Function Maximizer: Random Search (sorted)",
+    "14": "Acquisition Function Maximizer: Random Search (sorted)",
+    "15": "Acquisition Function Maximizer: Random Search (sorted)",
+    "16": "Acquisition Function Maximizer: Random Search (sorted)",
+    "17": "Acquisition Function Maximizer: Random Search (sorted)",
+    "18": "Acquisition Function Maximizer: Random Search (sorted)",
+    "19": "Acquisition Function Maximizer: Random Search (sorted)",
+    "20": "Acquisition Function Maximizer: Random Search (sorted)",
+    "21": "Acquisition Function Maximizer: Random Search (sorted)",
+    "22": "Acquisition Function Maximizer: Random Search (sorted)",
+    "23": "Acquisition Function Maximizer: Random Search (sorted)",
+    "24": "Acquisition Function Maximizer: Random Search (sorted)",
+    "25": "Random Search",
+    "26": "Random Search",
+    "27": "Random Search",
+    "28": "Acquisition Function Maximizer: Random Search (sorted)",
+    "29": "Acquisition Function Maximizer: Random Search (sorted)",
+    "30": "Acquisition Function Maximizer: Random Search (sorted)",
+    "31": "Acquisition Function Maximizer: Random Search (sorted)",
+    "32": "Acquisition Function Maximizer: Random Search (sorted)",
+    "33": "Acquisition Function Maximizer: Random Search (sorted)",
+    "34": "Acquisition Function Maximizer: Random Search (sorted)",
+    "35": "Random Search",
+    "36": "Acquisition Function Maximizer: Random Search (sorted)",
+    "37": "Random Search",
+    "38": "Acquisition Function Maximizer: Random Search (sorted)",
+    "39": "Acquisition Function Maximizer: Random Search (sorted)",
+    "40": "Acquisition Function Maximizer: Random Search (sorted)",
+    "41": "Acquisition Function Maximizer: Random Search (sorted)",
+    "42": "Acquisition Function Maximizer: Random Search (sorted)",
+    "43": "Acquisition Function Maximizer: Random Search (sorted)",
+    "44": "Acquisition Function Maximizer: Random Search (sorted)",
+    "45": "Random Search",
+    "46": "Acquisition Function Maximizer: Random Search (sorted)",
+    "47": "Acquisition Function Maximizer: Random Search (sorted)",
+    "48": "Acquisition Function Maximizer: Random Search (sorted)",
+    "49": "Acquisition Function Maximizer: Random Search (sorted)",
+    "50": "Acquisition Function Maximizer: Random Search (sorted)",
+    "51": "Acquisition Function Maximizer: Random Search (sorted)",
+    "52": "Acquisition Function Maximizer: Random Search (sorted)",
+    "53": "Acquisition Function Maximizer: Random Search (sorted)",
+    "54": "Random Search",
+    "55": "Acquisition Function Maximizer: Random Search (sorted)",
+    "56": "Acquisition Function Maximizer: Random Search (sorted)",
+    "57": "Acquisition Function Maximizer: Random Search (sorted)",
+    "58": "Random Search",
+    "59": "Acquisition Function Maximizer: Random Search (sorted)",
+    "60": "Acquisition Function Maximizer: Random Search (sorted)",
+    "61": "Acquisition Function Maximizer: Random Search (sorted)",
+    "62": "Acquisition Function Maximizer: Random Search (sorted)",
+    "63": "Acquisition Function Maximizer: Random Search (sorted)",
+    "64": "Random Search",
+    "65": "Acquisition Function Maximizer: Random Search (sorted)",
+    "66": "Random Search",
+    "67": "Acquisition Function Maximizer: Random Search (sorted)",
+    "68": "Acquisition Function Maximizer: Random Search (sorted)",
+    "69": "Acquisition Function Maximizer: Random Search (sorted)",
+    "70": "Acquisition Function Maximizer: Random Search (sorted)",
+    "71": "Random Search",
+    "72": "Random Search",
+    "73": "Acquisition Function Maximizer: Random Search (sorted)",
+    "74": "Random Search",
+    "75": "Random Search",
+    "76": "Acquisition Function Maximizer: Random Search (sorted)",
+    "77": "Acquisition Function Maximizer: Random Search (sorted)",
+    "78": "Random Search",
+    "79": "Acquisition Function Maximizer: Random Search (sorted)",
+    "80": "Random Search",
+    "81": "Acquisition Function Maximizer: Random Search (sorted)",
+    "82": "Acquisition Function Maximizer: Random Search (sorted)",
+    "83": "Acquisition Function Maximizer: Random Search (sorted)",
+    "84": "Acquisition Function Maximizer: Random Search (sorted)",
+    "85": "Acquisition Function Maximizer: Random Search (sorted)",
+    "86": "Random Search",
+    "87": "Acquisition Function Maximizer: Random Search (sorted)",
+    "88": "Random Search",
+    "89": "Acquisition Function Maximizer: Random Search (sorted)",
+    "90": "Random Search",
+    "91": "Acquisition Function Maximizer: Random Search (sorted)",
+    "92": "Acquisition Function Maximizer: Random Search (sorted)",
+    "93": "Random Search",
+    "94": "Acquisition Function Maximizer: Random Search (sorted)",
+    "95": "Acquisition Function Maximizer: Random Search (sorted)",
+    "96": "Acquisition Function Maximizer: Random Search (sorted)",
+    "97": "Acquisition Function Maximizer: Random Search (sorted)",
+    "98": "Random Search",
+    "99": "Acquisition Function Maximizer: Random Search (sorted)",
+    "100": "Acquisition Function Maximizer: Random Search (sorted)",
+    "101": "Acquisition Function Maximizer: Random Search (sorted)",
+    "102": "Acquisition Function Maximizer: Random Search (sorted)",
+    "103": "Random Search",
+    "104": "Acquisition Function Maximizer: Random Search (sorted)",
+    "105": "Acquisition Function Maximizer: Random Search (sorted)",
+    "106": "Random Search",
+    "107": "Acquisition Function Maximizer: Random Search (sorted)",
+    "108": "Random Search",
+    "109": "Acquisition Function Maximizer: Random Search (sorted)",
+    "110": "Random Search",
+    "111": "Acquisition Function Maximizer: Random Search (sorted)",
+    "112": "Acquisition Function Maximizer: Random Search (sorted)",
+    "113": "Acquisition Function Maximizer: Random Search (sorted)",
+    "114": "Acquisition Function Maximizer: Random Search (sorted)",
+    "115": "Acquisition Function Maximizer: Random Search (sorted)",
+    "116": "Acquisition Function Maximizer: Random Search (sorted)",
+    "117": "Acquisition Function Maximizer: Random Search (sorted)",
+    "118": "Acquisition Function Maximizer: Random Search (sorted)",
+    "119": "Acquisition Function Maximizer: Random Search (sorted)",
+    "120": "Acquisition Function Maximizer: Random Search (sorted)",
+    "121": "Acquisition Function Maximizer: Random Search (sorted)",
+    "122": "Acquisition Function Maximizer: Random Search (sorted)",
+    "123": "Acquisition Function Maximizer: Random Search (sorted)",
+    "124": "Acquisition Function Maximizer: Local Search",
+    "125": "Acquisition Function Maximizer: Local Search",
+    "126": "Acquisition Function Maximizer: Local Search",
+    "127": "Acquisition Function Maximizer: Local Search",
+    "128": "Acquisition Function Maximizer: Local Search",
+    "129": "Acquisition Function Maximizer: Local Search",
+    "130": "Acquisition Function Maximizer: Local Search",
+    "131": "Acquisition Function Maximizer: Local Search",
+    "132": "Acquisition Function Maximizer: Random Search (sorted)",
+    "133": "Acquisition Function Maximizer: Random Search (sorted)",
+    "134": "Random Search",
+    "135": "Acquisition Function Maximizer: Local Search",
+    "136": "Acquisition Function Maximizer: Local Search",
+    "137": "Acquisition Function Maximizer: Local Search",
+    "138": "Acquisition Function Maximizer: Local Search",
+    "139": "Acquisition Function Maximizer: Local Search",
+    "140": "Acquisition Function Maximizer: Random Search (sorted)",
+    "141": "Random Search",
+    "142": "Acquisition Function Maximizer: Local Search",
+    "143": "Acquisition Function Maximizer: Local Search",
+    "144": "Acquisition Function Maximizer: Local Search",
+    "145": "Acquisition Function Maximizer: Local Search",
+    "146": "Acquisition Function Maximizer: Local Search",
+    "147": "Acquisition Function Maximizer: Local Search",
+    "148": "Acquisition Function Maximizer: Random Search (sorted)",
+    "149": "Acquisition Function Maximizer: Local Search",
+    "150": "Acquisition Function Maximizer: Local Search",
+    "151": "Acquisition Function Maximizer: Local Search",
+    "152": "Acquisition Function Maximizer: Local Search",
+    "153": "Acquisition Function Maximizer: Local Search",
+    "154": "Acquisition Function Maximizer: Local Search",
+    "155": "Acquisition Function Maximizer: Local Search",
+    "156": "Acquisition Function Maximizer: Random Search (sorted)",
+    "157": "Acquisition Function Maximizer: Random Search (sorted)",
+    "158": "Acquisition Function Maximizer: Local Search",
+    "159": "Acquisition Function Maximizer: Local Search",
+    "160": "Acquisition Function Maximizer: Local Search",
+    "161": "Acquisition Function Maximizer: Local Search",
+    "162": "Acquisition Function Maximizer: Local Search",
+    "163": "Random Search",
+    "164": "Random Search",
+    "165": "Random Search",
+    "166": "Acquisition Function Maximizer: Random Search (sorted)",
+    "167": "Acquisition Function Maximizer: Local Search",
+    "168": "Acquisition Function Maximizer: Local Search",
+    "169": "Acquisition Function Maximizer: Local Search",
+    "170": "Acquisition Function Maximizer: Local Search",
+    "171": "Acquisition Function Maximizer: Local Search",
+    "172": "Acquisition Function Maximizer: Random Search (sorted)",
+    "173": "Acquisition Function Maximizer: Random Search (sorted)",
+    "174": "Acquisition Function Maximizer: Local Search",
+    "175": "Acquisition Function Maximizer: Local Search",
+    "176": "Acquisition Function Maximizer: Local Search",
+    "177": "Acquisition Function Maximizer: Local Search",
+    "178": "Acquisition Function Maximizer: Local Search",
+    "179": "Acquisition Function Maximizer: Local Search",
+    "180": "Acquisition Function Maximizer: Random Search (sorted)",
+    "181": "Acquisition Function Maximizer: Random Search (sorted)",
+    "182": "Acquisition Function Maximizer: Local Search",
+    "183": "Acquisition Function Maximizer: Local Search",
+    "184": "Acquisition Function Maximizer: Local Search",
+    "185": "Acquisition Function Maximizer: Local Search"
+  }
+}

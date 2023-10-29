@@ -1,0 +1,894 @@
+{
+  "stats": {
+    "submitted": 50,
+    "finished": 50,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.530478,
+      1696793328.578613,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      1,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.5818932,
+      1696793328.7236962,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.726584,
+      1696793328.7692769,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      2,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.771862,
+      1696793328.814649,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      1,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.817497,
+      1696793328.8614972,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.864513,
+      1696793328.9066691,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      3,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.909573,
+      1696793328.951108,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      3,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.953741,
+      1696793328.995203,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793328.998059,
+      1696793329.03925,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      4,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.0416908,
+      1696793329.083022,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      4,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.085543,
+      1696793329.126799,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.129827,
+      1696793329.171558,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      5,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.1743832,
+      1696793329.216471,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      5,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.219209,
+      1696793329.261754,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.383292,
+      1696793329.426522,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      6,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.430045,
+      1696793329.473403,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      6,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.477134,
+      1696793329.520024,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.5234618,
+      1696793329.567372,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      7,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.5787652,
+      1696793329.623416,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      7,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.627108,
+      1696793329.6697469,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.673103,
+      1696793329.71556,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      8,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.718685,
+      1696793329.761604,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      8,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.7650251,
+      1696793329.807303,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.811189,
+      1696793329.941303,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      9,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.944662,
+      1696793329.9866261,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      9,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793329.989513,
+      1696793330.031172,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.034534,
+      1696793330.076138,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      10,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.0789561,
+      1696793330.1207612,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      10,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.12364,
+      1696793330.165531,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      11,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.169112,
+      1696793330.211305,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      11,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.215544,
+      1696793330.257605,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      11,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.2609842,
+      1696793330.3030841,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      12,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.3070238,
+      1696793330.3490229,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      12,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.3522549,
+      1696793330.394021,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      12,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.397089,
+      1696793330.438636,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      13,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.442216,
+      1696793330.4839911,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      13,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.487255,
+      1696793330.52946,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      13,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.533119,
+      1696793330.670073,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      14,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.876558,
+      1696793330.918595,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      14,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.9219332,
+      1696793330.963905,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      14,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793330.967296,
+      1696793331.009461,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      15,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.013504,
+      1696793331.055072,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      15,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.058229,
+      1696793331.0993779,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      15,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.102601,
+      1696793331.144161,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      16,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.147945,
+      1696793331.189215,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      16,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.1924741,
+      1696793331.2339652,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      16,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.237154,
+      1696793331.278681,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      17,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.282521,
+      1696793331.323871,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      17,
+      null,
+      398764591,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.327293,
+      1696793331.369327,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ],
+    [
+      17,
+      null,
+      924231285,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1696793331.372575,
+      1696793331.415426,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 184, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/smac/runner/target_function_runner.py\", line 257, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/folders/ty/2g_hgfks4nl_84mz496fmn600000gn/T/ipykernel_47298/150870473.py\", line 48, in train\n    if \"gamma\" in config:\n       ^^^^^^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  File \"/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/ConfigSpace/configuration.py\", line 151, in __contains__\n    return item in self\n           ^^^^^^^^^^^^\n  [Previous line repeated 2963 more times]\nRecursionError: maximum recursion depth exceeded\n",
+        "error": "RecursionError('maximum recursion depth exceeded')"
+      }
+    ]
+  ],
+  "configs": {
+    "1": {
+      "C": 0.03992740880515713,
+      "kernel": "rbf",
+      "shrinking": true,
+      "gamma": "auto"
+    },
+    "2": {
+      "C": 1.2760639488343621,
+      "kernel": "linear",
+      "shrinking": false
+    },
+    "3": {
+      "C": 99.73882304607206,
+      "kernel": "sigmoid",
+      "shrinking": true,
+      "coef0": 4.547900483012199,
+      "gamma": "value",
+      "gamma_value": 0.4125654333467708
+    },
+    "4": {
+      "C": 0.0032115258048034567,
+      "kernel": "poly",
+      "shrinking": false,
+      "coef0": 7.344286264851689,
+      "degree": 3,
+      "gamma": "auto"
+    },
+    "5": {
+      "C": 0.0066006851689440205,
+      "kernel": "sigmoid",
+      "shrinking": false,
+      "coef0": 6.1642263643443584,
+      "gamma": "auto"
+    },
+    "6": {
+      "C": 224.2012371372442,
+      "kernel": "linear",
+      "shrinking": false
+    },
+    "7": {
+      "C": 19.549524484259873,
+      "kernel": "poly",
+      "shrinking": false,
+      "coef0": 6.399210213275238,
+      "degree": 3,
+      "gamma": "auto"
+    },
+    "8": {
+      "C": 7.505241622349544,
+      "kernel": "sigmoid",
+      "shrinking": false,
+      "coef0": 4.146619399905235,
+      "gamma": "value",
+      "gamma_value": 0.00031647170716777857
+    },
+    "9": {
+      "C": 4.135997393839888,
+      "kernel": "sigmoid",
+      "shrinking": false,
+      "coef0": 1.433532874090464,
+      "gamma": "value",
+      "gamma_value": 0.06247784993545861
+    },
+    "10": {
+      "C": 1.96282248134428,
+      "kernel": "sigmoid",
+      "shrinking": true,
+      "coef0": 1.1827442586893322,
+      "gamma": "auto"
+    },
+    "11": {
+      "C": 1.8590843630169627,
+      "kernel": "rbf",
+      "shrinking": false,
+      "gamma": "auto"
+    },
+    "12": {
+      "C": 0.4222048983149828,
+      "kernel": "linear",
+      "shrinking": true
+    },
+    "13": {
+      "C": 0.348280208702833,
+      "kernel": "rbf",
+      "shrinking": false,
+      "gamma": "value",
+      "gamma_value": 7.015940040157503
+    },
+    "14": {
+      "C": 8.291821660947624,
+      "kernel": "linear",
+      "shrinking": false
+    },
+    "15": {
+      "C": 0.004594633206288104,
+      "kernel": "linear",
+      "shrinking": true
+    },
+    "16": {
+      "C": 0.6278626332563011,
+      "kernel": "sigmoid",
+      "shrinking": false,
+      "coef0": 0.6414749634878436,
+      "gamma": "value",
+      "gamma_value": 0.07995301861119038
+    },
+    "17": {
+      "C": 0.008991196763419824,
+      "kernel": "sigmoid",
+      "shrinking": true,
+      "coef0": 5.666014542065751,
+      "gamma": "value",
+      "gamma_value": 0.0012410501153697251
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Acquisition Function Maximizer: Random Search (sorted)",
+    "7": "Acquisition Function Maximizer: Random Search (sorted)",
+    "8": "Acquisition Function Maximizer: Random Search (sorted)",
+    "9": "Acquisition Function Maximizer: Random Search (sorted)",
+    "10": "Acquisition Function Maximizer: Random Search (sorted)",
+    "11": "Acquisition Function Maximizer: Random Search (sorted)",
+    "12": "Acquisition Function Maximizer: Random Search (sorted)",
+    "13": "Acquisition Function Maximizer: Random Search (sorted)",
+    "14": "Acquisition Function Maximizer: Random Search (sorted)",
+    "15": "Acquisition Function Maximizer: Random Search (sorted)",
+    "16": "Acquisition Function Maximizer: Random Search (sorted)",
+    "17": "Acquisition Function Maximizer: Random Search (sorted)"
+  }
+}
