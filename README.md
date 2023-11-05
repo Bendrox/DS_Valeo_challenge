@@ -17,6 +17,7 @@ Le lien vers le challenge : https://challengedata.ens.fr/participants/challenges
 Source : https://challengedata.ens.fr/participants/challenges/36/ranking/public
 
 Pistes restantes a explorer :
+
 1- réduire la classe majeure fait il gagner les performances ?
 
 2-  splines
