@@ -14,10 +14,6 @@ A premiere vue, le dataset présente deux difficultés majeures :
 Le lien vers le challenge : https://challengedata.ens.fr/participants/challenges/36/
 
 
-Source : https://challengedata.ens.fr/participants/challenges/36/ranking/public
-
-
-
 
 
 
