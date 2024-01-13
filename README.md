@@ -13,7 +13,7 @@ A premiere vue, le dataset présente deux difficultés majeures :
 
 Le lien vers le challenge : https://challengedata.ens.fr/participants/challenges/36/
 
-Le travail de modélisation est dans le fichier 
+Le travail de modélisation est dans le fichier : ValeoML.ipynb
 
 
 
