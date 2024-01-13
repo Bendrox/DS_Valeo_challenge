@@ -9,7 +9,7 @@ L'excercice consiste a prévoir si les pièces sont defectueuses (ou pas) en fon
 
 A premiere vue, le dataset présente deux difficultés majeures : 
 - Un prédicteur fortement déséquilibré
-- Des valeurs manquantes sur une des variables du dataset (plus que 50% des valeurs sont manquantes)
+- Des valeurs manquantes sur une des variables du dataset (dont 50% des valeurs sont manquantes)
 
 Le lien vers le challenge : https://challengedata.ens.fr/participants/challenges/36/
 
