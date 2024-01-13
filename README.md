@@ -21,8 +21,4 @@ Pistes restantes a explorer :
 
 1- réduire la classe majeure fait il gagner les performances ?
 
-2-  splines
-
-3- interractions
-
-4- Outliers avec XGBOD
+2-  Outliers notamment avec XGBOD
