@@ -19,6 +19,4 @@ Le travail de modélisation est dans le fichier : ValeoML.ipynb
 
 Pistes restantes a explorer :
 
-1- Réduire la classe majeure fait il gagner les performances ?
-
-2-  Gestion des Outliers notamment avec XGBOD
+- Gestion des Outliers 
