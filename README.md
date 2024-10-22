@@ -1,6 +1,5 @@
 # DS_Valeo_challenge :car:
 
-En cours ...
 
 J'applique XG Boost pour une problématique de classification en explorant 7 différentes méthodes de recherches d'hyperparamètres (HalvingGridSearchCV, BayesSearchCV, RandomizedSearchCV, GridSearchCV, HalvingRandomSearch, Optuna, Hyperplot), 3 méthodes d'imputation des valeurs manquantes (Mice, Forest Impute) et du FE pour booster les performances. Le dataset choisi est celui de l'entreprise Valeo et provient de l'ENS Challenge'.
 
